@@ -1,6 +1,6 @@
 using System;
 
-class Operaciones // Cambia 'Program' por otro nombre
+class Operaciones 
 {
     static void Main()
     {
